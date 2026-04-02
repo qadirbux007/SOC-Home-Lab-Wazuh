@@ -1,9 +1,9 @@
 # 🛡️ SOC Home Lab — Wazuh SIEM Deployment & Windows Endpoint Monitoring
 
-![Wazuh](https://img.shields.io/badge/Wazuh-4.12-blue?style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange?style=for-the-badge&logo=ubuntu)
-![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Dashboard](Dashboard.png)
+![Dashboard](Agent_Active.png)
+![Dashboard](FIM_alerts.png)
+![Dashboard](Security_events.png)
 
 ---
 
