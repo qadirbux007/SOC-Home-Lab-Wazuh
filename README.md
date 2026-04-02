@@ -1,9 +1,9 @@
 # 🛡️ SOC Home Lab — Wazuh SIEM Deployment & Windows Endpoint Monitoring
 
-![Dashboard](Dashboard.png)
-![Dashboard](Agent_Active.png)
-![Dashboard](FIM_alerts.png)
-![Dashboard](Security_events.png)
+![Dashboard](screenshots/Dashboard.png)
+![Dashboard](screenshots/Agent_Active.png)
+![Dashboard](screenshots/FIM_alerts.png)
+![Dashboard](screenshots/Security_events.png)
 
 ---
 
@@ -86,16 +86,16 @@ Windows Agent → Wazuh Manager → Filebeat → OpenSearch → Dashboard
 ## 📸 Screenshots
 
 ### Wazuh Dashboard Home
-![Dashboard](Dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Agent Active & Connected
-![Dashboard](Agent_Active.png)
+![Dashboard](screenshots/Agent_Active.png)
 
 ### FIM Alerts
-![Dashboard](FIM_alerts.png)
+![Dashboard](screenshots/FIM_alerts.png)
 
 ### Security Events
-![Dashboard](Security_events.png)
+![Dashboard](screenshots/Security_events.png)
 
 ---
 
