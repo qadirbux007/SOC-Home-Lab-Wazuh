@@ -86,16 +86,16 @@ Windows Agent → Wazuh Manager → Filebeat → OpenSearch → Dashboard
 ## 📸 Screenshots
 
 ### Wazuh Dashboard Home
-![Dashboard](screenshots/dashboard-home.png)
+![Dashboard](Dashboard.png)
 
 ### Agent Active & Connected
-![Agent](screenshots/agent-active.png)
+![Dashboard](Agent_Active.png)
 
 ### FIM Alerts
-![FIM](screenshots/fim-alerts.png)
+![Dashboard](FIM_alerts.png)
 
 ### Security Events
-![Events](screenshots/security-events.png)
+![Dashboard](Security_events.png)
 
 ---
 
